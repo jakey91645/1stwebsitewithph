@@ -33,4 +33,4 @@ To follow this project, please install the following locally:
 We'll download all of the data during the project, using the `yfinance` package.
 
 ## instagram
-jakey91645
+`jakey91645`
